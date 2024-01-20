@@ -4,7 +4,7 @@
       <v-list>
         <router-link v-ripple to="/" class="d-flex justify-center pt-2" style="padding-bottom: 14px;">
           <!-- <h2>ZEALTECH POS</h2> -->
-          <img :src="zealtech_logo" alt="ZEALTECH POS" height="50" />
+          <img :src="logo" alt="logo POS" height="50" />
         </router-link>
       </v-list>
       <v-divider></v-divider>
